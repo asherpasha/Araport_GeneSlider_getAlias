@@ -1,0 +1,8 @@
+---
+description: "Returns AGI/Alias data for GeneSlider autocomplete function"
+name: araport_geneslider_getalias
+type: passthrough
+url: "http://bar.utoronto.ca/webservices/araport/geneslider/getAlias.cgi"
+version: 0.1.0
+whitelist:
+  - bar.utoronto.ca
